@@ -1,0 +1,36 @@
+.form {
+  padding: 12px 65px;
+  margin-bottom: 65px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.titleField {
+  width: 100%;
+  margin-bottom: 10px;
+
+  &:before, &:after {
+    display: none !important;
+  }
+
+  input {
+    font-size: 36px !important;
+    font-weight: 700 !important;
+  }
+}
+
+.editor {
+  position: relative;
+  z-index: 0;
+  font-size: 18px;
+
+  :global {
+    .ce-block__content {
+      max-width: unset;
+    }
+
+    .ce-toolbar__content {
+      max-width: unset;
+    }
+  }
+}

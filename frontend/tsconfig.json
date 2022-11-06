@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "baseUrl": "./src",
+    "paths": {
+      "@/components": ["components/common/index.tsx"],
+      "@/ui": ["components/ui/index.tsx"],
+      "@/api": ["_api/index.ts"],
+      "@/page-components": ["components/_page-components/index.tsx"],
+      "@/layouts": ["layouts/index.tsx"],
+      "@/styles": ["assets/styles/style.scss"],
+      "@/assets/*": ["assets/*"],
+      "@/hooks": ["hooks/index.tsx"],
+      "@/models": ["types/models/index.tsx"],
+      "@/utils": ["utils/index.tsx"],
+      "@/dto": ["types/dto/index.tsx"],
+      "@/services": ["services/index.ts"]
+    },
+    "useDefineForClassFields": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": ["src",],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

@@ -1,0 +1,23 @@
+.member {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.name {
+  position: relative;
+
+  svg {
+    position: absolute;
+    top: -1.5px;
+    right: -36px;
+  }
+}
+
+.icon  {
+  fill: #d9d9d9 !important;
+
+  &.verify {
+    fill: #2ea83a !important;
+  }
+}

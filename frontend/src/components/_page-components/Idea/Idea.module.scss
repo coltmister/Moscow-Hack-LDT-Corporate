@@ -1,0 +1,23 @@
+.tabs {
+  background-color: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+
+  div:empty {
+    display: none;
+  }
+}
+
+.title {
+  width: 100%;
+}
+
+.header {
+  padding: 24px;
+
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

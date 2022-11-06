@@ -1,0 +1,80 @@
+.close {
+  position: absolute !important;
+  top: 20px;
+  right: 20px;
+
+  @include breakpoint(994px) {
+    display: none!important;
+  }
+}
+
+.menu {
+  --width: 100%;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  z-index: 3;
+  padding: 80px 40px 40px;
+  width: var(--width);
+  height: 100vh;
+  background-color: var(--background-color);
+  transition: 0.3s ease-in-out;
+
+  &.open {
+    left: 0;
+
+    @include breakpoint(994px) {
+      transform: translateX(0);
+      z-index: 0;
+    }
+  }
+
+  @include breakpoint(468px) {
+    --width: 65%;
+  }
+
+  @include md-block {
+    --width: 35%;
+  }
+
+  @include breakpoint(994px) {
+    position: sticky;
+    top: 80px;
+    left: 0;
+    transform: translateX(-200%);
+    padding: 0;
+    --width: 200px;
+    height: fit-content;
+    transition: none;
+  }
+
+  ul {
+    li {
+      margin-bottom: 4px;
+
+      a {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        padding: 10px;
+        text-transform: inherit;
+        font-size: 16px;
+        font-weight: 400;
+        box-shadow: none;
+
+        span[class*='MuiButton-label'] {
+          display: flex;
+          align-items: center;
+        }
+
+        svg {
+          margin-right: 10px;
+        }
+
+        &.active {
+          display: flex;
+        }
+      }
+    }
+  }
+}

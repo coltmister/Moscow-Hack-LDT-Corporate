@@ -1,0 +1,32 @@
+.textfield {
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  padding: 12px 17px !important;
+  border-radius: 10px;
+  background-color: #f7f7f7;
+  transition: 0.3s ease-in-out;
+
+  &:focus,
+  &:hover,
+  &:focus-within {
+    background-color: #fff;
+    box-shadow: 0 0 2px 1px #346eb8;
+  }
+
+  fieldset {
+    border: none!important;
+  }
+}
+
+.fieldRoot {
+
+  > * {
+    cursor: pointer !important;
+  }
+}
+
+.btn {
+  display: flex !important;
+  margin-left: auto !important;
+}

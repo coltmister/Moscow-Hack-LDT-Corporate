@@ -1,0 +1,53 @@
+{
+  "name": "react-mui-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "1.x",
+    "@editorjs/attaches": "^1.2.3",
+    "@editorjs/checklist": "^1.3.0",
+    "@editorjs/editorjs": "^2.25.0",
+    "@editorjs/image": "^2.6.2",
+    "@editorjs/paragraph": "^2.8.0",
+    "@editorjs/simple-image": "^1.4.1",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@hookform/resolvers": "^2.9.10",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/lab": "^5.0.0-alpha.106",
+    "@mui/material": "^5.10.12",
+    "@mui/x-date-pickers": "^5.0.6",
+    "@reduxjs/toolkit": "^1.8.6",
+    "@svgr/rollup": "^6.5.0",
+    "async-mutex": "^0.4.0",
+    "classnames": "^2.3.2",
+    "clsx": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "lodash": "^4.17.21",
+    "prettier": "^2.7.1",
+    "query-string": "^7.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-editor-js": "^2.1.0",
+    "react-hook-form": "^7.38.0",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2",
+    "sass": "^1.55.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-basic-ssl": "^0.1.2",
+    "@vitejs/plugin-react": "^2.1.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}

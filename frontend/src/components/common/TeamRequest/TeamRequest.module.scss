@@ -1,0 +1,22 @@
+.info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.item {
+  padding: 12px;
+  display: grid;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+
+  &:not(:last-child) {
+    border-bottom: 1px solid #f2f2f2;
+  }
+
+  @include md-block {
+    grid-template-columns: 320px 1fr;
+    padding: 24px;
+  }
+}

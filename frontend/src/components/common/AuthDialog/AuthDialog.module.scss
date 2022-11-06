@@ -1,0 +1,80 @@
+.dialog {
+  :global .MuiPaper-root {
+    border-radius: 8px;
+  }
+}
+
+.root {
+  margin: 30px auto 15px;
+  max-width: 70%;
+}
+
+.content {
+  button {
+    position: relative;
+  }
+}
+
+.title {
+  margin-bottom: 15px !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+  color: #000;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(250px, 1fr));
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.icons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px;
+
+  svg {
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.back {
+  position: absolute !important;
+  top: 12px;
+  left: 12px;
+  border: none;
+  display: flex;
+  align-items: center;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  color: #a1a1a1;
+  background-color: transparent;
+  gap: 12px;
+  cursor: pointer;
+  transform: scale(0.75);
+
+  svg {
+    position: static;
+  }
+
+  &:hover {
+    color: #777;
+  }
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}

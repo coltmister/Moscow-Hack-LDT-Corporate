@@ -1,0 +1,26 @@
+.commentItem {
+  margin-bottom: 12px;
+  padding: 8px 13px 6px;
+
+  &:last-child {
+    margin-bottom: 50px;
+  }
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.text {
+  font-size: 16px;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  padding-left: 50px;
+}
+
+.postTitle {
+  font-size: 15px;
+  font-weight: 500;
+}

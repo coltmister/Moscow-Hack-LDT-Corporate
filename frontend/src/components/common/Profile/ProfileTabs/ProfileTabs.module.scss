@@ -1,0 +1,11 @@
+.tabs {
+  background-color: white;
+
+  [class*='scroller'] {
+    overflow: auto!important;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}

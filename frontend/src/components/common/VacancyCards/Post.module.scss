@@ -1,0 +1,36 @@
+.paper {
+  width: 100%;
+  padding: 20px 20px 8px 20px;
+  margin-bottom: 30px;
+  border-radius: 8px !important;
+}
+
+.emotions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  align-items: center;
+}
+
+.title {
+  font-weight: 500 !important;
+  font-size: 22px !important;
+}
+
+.descr {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}

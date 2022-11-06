@@ -1,0 +1,17 @@
+.team {
+  display: grid;
+  gap: 16px;
+
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 30px;
+  }
+}
+
+.description {
+  width: 100%;
+}
+
