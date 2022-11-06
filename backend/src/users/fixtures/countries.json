@@ -1,0 +1,2512 @@
+[
+  {
+    "model": "users.country",
+    "pk": "3fc44ae9-7bdb-4706-bff1-c1faf337cb49",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "name",
+      "country_code": "alpha3"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "06e6859f-9e99-4606-8ba9-e052a4b9a3e6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Абхазия",
+      "country_code": "ABH"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5458df1d-2c12-4d83-82b5-9d074b7826a2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Австралия",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "938850f7-2ab3-469f-94c2-415cb2b36be2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Австрия",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f9ec5435-37ad-4470-9568-087694295748",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Азербайджан",
+      "country_code": "AZE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d1021ced-9306-4488-a6fc-0af9e361ab62",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Албания",
+      "country_code": "ALB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e0abb661-57e3-4676-9fcc-1fe89cbf26be",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Алжир",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e38a3d84-8996-4b7f-b593-f3e827a2fadb",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Американское Самоа",
+      "country_code": "ASM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0737eeed-f33f-44cf-a6bf-ef7f95092c38",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ангилья",
+      "country_code": "AIA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4ad651cc-4497-46dc-9997-4c7c433952e9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ангола",
+      "country_code": "AGO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a1600d24-2824-4f94-9451-d3ebe5af84cd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Андорра",
+      "country_code": "AND"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "21fdb8c5-c868-4d7b-804a-6fdc3f68d461",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Антарктида",
+      "country_code": "ATA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "bbec4b36-37f8-4d77-b483-4abcbc4c1ddd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Антигуа и Барбуда",
+      "country_code": "ATG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "bb954103-f27b-45ef-9884-ba9123f91cdd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Аргентина",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "af78e3d2-f07d-41b2-af59-f702e3432dc1",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Армения",
+      "country_code": "ARM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8874e3f7-92a3-4b5c-8904-5386a660e0b6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Аруба",
+      "country_code": "ABW"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "58cfde26-6971-4f02-99d4-c1a35942ab66",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Афганистан",
+      "country_code": "AFG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fe2822e9-8944-45d9-8314-001e0d130ee2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Багамы",
+      "country_code": "BHS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "73964cf2-1d21-43db-93e0-e7dc33d79433",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бангладеш",
+      "country_code": "BGD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "37a2e45b-1dc4-4370-b259-06c5151e079a",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Барбадос",
+      "country_code": "BRB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "abbb6e2e-613d-4b47-847f-858d6837e55b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бахрейн",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "470221c5-8c28-44cc-8935-4afe33550334",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Беларусь",
+      "country_code": "BLR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3e2646d8-86e5-4a3b-a7ad-d812eda7f396",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Белиз",
+      "country_code": "BLZ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6f8c024c-c95e-4ce7-8917-2166a2d6b956",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бельгия",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b11f59f6-401c-4b97-8020-9e15f9b287fd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бенин",
+      "country_code": "BEN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a1c1610c-a164-43fe-95dd-1bf8e43aa4f2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бермуды",
+      "country_code": "BMU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "06442f3b-272a-4c8e-8c46-098539a476fa",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Болгария",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0c1d0078-30f3-41e6-a0fc-7d6b2245a0ec",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Боливия, Многонациональное Государство",
+      "country_code": "BOL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "91ccabae-410f-4020-a160-0e710c7a0cdf",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бонайре, Саба и Синт-Эстатиус",
+      "country_code": "BES"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9bbe7ddf-cf26-4ec5-a9a4-a6e25e381817",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Босния и Герцеговина",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3a9172e0-511c-4175-99b2-8faee7ca3dfc",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ботсвана",
+      "country_code": "BWA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a4db9b1d-69c1-4c1a-880c-cf580d31053e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бразилия",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9f8fc417-d971-4e90-80ba-91d4229c515c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Британская территория в Индийском океане",
+      "country_code": "IOT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "09ea3487-ab86-400b-b21f-b55bdfd72376",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бруней-Даруссалам",
+      "country_code": "BRN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6079fc08-0fae-454f-93a8-3d6cb8b1bcf8",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Буркина-Фасо",
+      "country_code": "BFA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "98c146ec-16fc-4b34-a52c-6467e01de7aa",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бурунди",
+      "country_code": "BDI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3034ba8a-01b1-4f23-981a-0672a608eeb7",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Бутан",
+      "country_code": "BTN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5bec05ef-b20c-4eb8-8f61-0b302ce10445",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Вануату",
+      "country_code": "VUT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "61c84af4-4a4a-4016-8787-7ccacb166e3a",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Венгрия",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5d1715a1-72f9-43a2-97bd-0e338a738ba3",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Венесуэла Боливарианская Республика",
+      "country_code": "VEN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "da79ae69-2bb7-4650-9cf8-8aecde15460c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Виргинские острова, Британские",
+      "country_code": "VGB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1bf11484-337d-478f-bdff-03a5e8feb4a0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Виргинские острова, США",
+      "country_code": "VIR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a066f65c-19e1-424a-a0f7-e703dca32851",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Вьетнам",
+      "country_code": "VNM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "45536bef-275b-4931-9d01-c7498e6a14c5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Габон",
+      "country_code": "GAB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0a36e4b9-67ec-4b95-ac1e-46838dc413e2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гаити",
+      "country_code": "HTI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1b756850-b85f-4233-88a1-ca627aa6c281",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гайана",
+      "country_code": "GUY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e6a46519-5213-445c-b705-d627888b8dbc",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гамбия",
+      "country_code": "GMB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3e033931-0111-40b2-bdd0-e8fa8bcaffdd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гана",
+      "country_code": "GHA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ca0f7f5e-0fd4-45c0-96aa-d31906a50c10",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гваделупа",
+      "country_code": "GLP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ca11433a-69c2-476c-82b1-e094609ae8bd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гватемала",
+      "country_code": "GTM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1b5a11bf-cc95-4594-ab6c-3899bca1110b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гвинея",
+      "country_code": "GIN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "72bfc071-0c76-4c33-b13b-80bf0a92299b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гвинея-Бисау",
+      "country_code": "GNB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "71a946da-bf23-4c6b-950f-963c5575cf13",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Германия",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1784bd1e-db21-4c6e-a629-d76084e50591",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гернси",
+      "country_code": "GGY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2783c8f9-d175-4813-a0ab-5e21dc2d1c74",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гибралтар",
+      "country_code": "GIB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6b7dd9aa-c3aa-4ed7-9f7b-38cf993d0a64",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гондурас",
+      "country_code": "HND"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0128f558-590a-40a2-a4d4-18d2fbbdc15f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гонконг",
+      "country_code": "HKG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "59d0c6f5-878b-4f50-9aa3-83078b9ed2fd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гренада",
+      "country_code": "GRD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "214abb6a-f16f-4405-9601-8eeb877ce45b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гренландия",
+      "country_code": "GRL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8b45b05f-6499-4e0d-acd8-81fc5915018b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Греция",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c0ae5548-7b39-4066-b483-182e01023ad1",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Грузия",
+      "country_code": "GEO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9b8d2bf3-f4d2-41c7-80cc-5cd371bef864",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Гуам",
+      "country_code": "GUM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "10fcf2d0-b7a1-4a75-abb9-14551cea21e2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Дания",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "30d1b587-1f38-4366-8d27-d87ac98c0a7c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Джерси",
+      "country_code": "JEY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8e6fd01a-b565-4218-8ddf-362d4b834fb6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Джибути",
+      "country_code": "DJI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "05fc8f4a-4ba3-493f-b201-b519bab571b5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Доминика",
+      "country_code": "DMA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fcb1480a-bc5d-4247-9cc5-d715b09b50be",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Доминиканская Республика",
+      "country_code": "DOM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "191fa714-647a-48f8-ad07-aaf0b21d4cd5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Египет",
+      "country_code": "EGY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a2cc852e-2906-4aa7-93e8-789bc3a3e103",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Замбия",
+      "country_code": "ZMB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8151b8f8-4a7f-4c7e-ba73-ec05f0d29337",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Западная Сахара",
+      "country_code": "ESH"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "32a80f0a-3c44-4394-86a7-78c598966cc4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Зимбабве",
+      "country_code": "ZWE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0a65ea27-f109-4803-bdbf-3a4ed33eb27f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Израиль",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8b6f370b-7af7-40ab-8271-727029eb117b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Индия",
+      "country_code": "IND"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "07e35877-8292-420c-8489-440764238022",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Индонезия",
+      "country_code": "IDN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8f1a5e32-474c-408b-b7c7-e673a63df278",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Иордания",
+      "country_code": "JOR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fc20056f-3a3a-4256-ab85-1b74ddefad02",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ирак",
+      "country_code": "IRQ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "00dea108-17f1-4d54-a447-0920fa00d5a7",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Иран, Исламская Республика",
+      "country_code": "IRN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "91881734-2988-41ac-bf57-89c01010d2a9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ирландия",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4ad17b12-fa08-4cbb-8fdb-05eb47d27935",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Исландия",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "dfe5e6e0-7966-4ac2-b5b4-bdd420901a17",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Испания",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "10802324-f933-4295-ab0e-f53e6afc3358",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Италия",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "821f2701-46c8-4293-a3cc-1eefcfbc41de",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Йемен",
+      "country_code": "YEM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "cdae680a-443a-45ff-acff-f0345470d0e4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кабо-Верде",
+      "country_code": "CPV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e7592c46-e0ca-4453-b11c-688380ae262e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Казахстан",
+      "country_code": "KAZ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2db70c33-1846-4a50-b334-9130370a7f5d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Камбоджа",
+      "country_code": "KHM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "92a5bf2d-22a7-4664-8263-a4c4898acca5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Камерун",
+      "country_code": "CMR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "29fa86b2-6a68-4a30-8245-475112784e78",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Канада",
+      "country_code": "CAN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "aafccf63-e1ef-4786-81aa-71ed91e5f22d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Катар",
+      "country_code": "QAT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "388f7edb-5874-46f2-aaf0-d5f4d10adf8d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кения",
+      "country_code": "KEN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "90167ecb-674b-4a87-852f-56a456801d61",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кипр",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "28d04d84-2fd1-4cd9-aac9-3f4ad258c71d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Киргизия",
+      "country_code": "KGZ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b34d63e8-bd0c-4c79-85ad-19fb506bca38",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кирибати",
+      "country_code": "KIR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8736d6c9-6641-40c7-b788-6d3373a342ce",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Китай",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7b73b3ad-ac53-40d9-8f49-d301a03c62a0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кокосовые (Килинг) острова",
+      "country_code": "CCK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7dacfa32-9ec7-4084-94ab-0de6c9d5f4cf",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Колумбия",
+      "country_code": "COL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3bb29f07-38d6-463c-b252-fed76e702483",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Коморы",
+      "country_code": "COM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e5102c11-daf0-4f05-b0b1-fdc6acd1b14a",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Конго",
+      "country_code": "COG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b6a97806-0404-4a6f-821e-078cfbb9c7e5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Конго, Демократическая Республика",
+      "country_code": "COD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "532128f5-3235-49c0-a01a-4202fde615e5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Корея, Народно-Демократическая Республика",
+      "country_code": "PRK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "54f1620f-ce96-469b-8051-7ac86187f6f0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Корея, Республика",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "25a65370-d17a-40e5-9400-b5082d381bbf",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Коста-Рика",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3270df22-97ce-496c-9ba8-bd763db0f02c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кот д/' Ивуар",
+      "country_code": "CIV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "918c9028-a43f-4b88-8e90-ee9cb41dc517",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Куба",
+      "country_code": "CUB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "cb4f8f48-0b92-42ac-965c-64024098b244",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кувейт",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c7d42d88-a8dd-4137-97cd-59e0fc0b1c35",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Кюрасао",
+      "country_code": "CUW"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "58bd57e7-f416-4bd5-b434-2b6818af37f2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Лаос",
+      "country_code": "LAO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7328aa4a-0ffb-4e52-8cba-44f0568a31ed",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Латвия",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "168cfd48-1f46-49f3-85c2-e1de3de79137",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Лесото",
+      "country_code": "LSO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c11575ad-0c77-4ed3-8d78-eadfa82c9ebd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ливан",
+      "country_code": "LBN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8b8c98f2-18e6-4055-af14-bf0de759b046",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ливийская Арабская Джамахирия",
+      "country_code": "LBY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9e098995-5234-44fe-aacd-a0319919c343",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Либерия",
+      "country_code": "LBR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c225c055-6744-4e0c-a941-f6d6fc9f2de5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Лихтенштейн",
+      "country_code": "LIE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "903aaee4-5c39-4ea5-9a81-3fddc390031c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Литва",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "657c742b-fabc-4b32-b867-eef6e60e2bd8",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Люксембург",
+      "country_code": "LUX"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "78e7e6e4-644a-4507-aec0-d9fd8982a1f1",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Маврикий",
+      "country_code": "MUS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9a6ad400-5455-4e17-9d1d-a7aa3adc2f49",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мавритания",
+      "country_code": "MRT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1a43a1a9-0ea8-46e6-bfd9-86b8a7962dab",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мадагаскар",
+      "country_code": "MDG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d72c0445-6c16-4767-b96c-adcae33f47ea",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Майотта",
+      "country_code": "MYT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c0b06d4c-f310-4c0a-a921-12ee6acec70f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Макао",
+      "country_code": "MAC"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d0f3c46b-235e-4c71-89d8-00bc21d1558b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Малави",
+      "country_code": "MWI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6e0d57ec-4203-4b7a-a8f6-1fefa8532cd4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Малайзия",
+      "country_code": "MYS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "248ad7d5-7e99-46f0-96f6-0bdf36697832",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мали",
+      "country_code": "MLI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5fd5f9b0-d912-46a4-81ee-6bb5d6454ca4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Малые Тихоокеанские отдаленные острова Соединенных Штатов",
+      "country_code": "UMI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "57b24760-d6c1-47cd-af78-62aa8a8ad25d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мальдивы",
+      "country_code": "MDV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1874f7d3-d8ba-4b17-8e43-36fba7f74c2e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мальта",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9ccffc79-9a3b-4be0-8d8c-fca5a2f32581",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Марокко",
+      "country_code": "MAR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b6d32593-2070-4818-b303-ac8f844d745f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мартиника",
+      "country_code": "MTQ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "76f0f3aa-43f3-4e57-a2ed-294e52f1abf4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Маршалловы острова",
+      "country_code": "MHL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f6c30f64-fc20-465b-884a-4e25b2936172",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мексика",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b2f84e84-82a2-4eaa-9646-1fa0282882c9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Микронезия, Федеративные Штаты",
+      "country_code": "FSM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1957d250-5da4-43dc-b05a-ec743306639c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мозамбик",
+      "country_code": "MOZ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "25c66517-14fd-47aa-a087-e4424a13f724",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Молдова, Республика",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "11bffdb4-d9e5-42e0-813d-4d7b903bc649",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Монако",
+      "country_code": "MCO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c3ac72f7-015d-4014-9197-e2a0021a74fd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Монголия",
+      "country_code": "MNG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b8679969-0d5d-4f34-b6a0-d755ee4f7a22",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Монтсеррат",
+      "country_code": "MSR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6e257f86-53ec-42c8-b33c-499c7475323f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Мьянма",
+      "country_code": "MMR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d1fad453-a45f-4bdc-bda1-c65bea4e8c34",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Намибия",
+      "country_code": "NAM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fd63d247-7c38-41aa-88fc-bbdb6da529db",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Науру",
+      "country_code": "NRU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d309ef88-fccb-4a4f-9ce7-5e72b3873764",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Непал",
+      "country_code": "NPL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fb239810-c1f2-4a5f-8e7e-0ecd2947783e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Нигер",
+      "country_code": "NER"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "10444e99-4da5-4f31-b85a-1e936e93537e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Нигерия",
+      "country_code": "NGA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0370ee1c-79cd-4f1e-8f79-fed11b6ada21",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Нидерланды",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a8fbbd21-005d-4b8e-a4a6-791c115254d3",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Никарагуа",
+      "country_code": "NIC"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ff6129a9-f3d4-4fb7-8ffe-26ef414434b5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ниуэ",
+      "country_code": "NIU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "bfd1ec39-4750-43ab-8c9f-9e775e0b8f89",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Новая Зеландия",
+      "country_code": "NZL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f67bc5a6-841b-47cd-9cdf-0ff9b768a3d4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Новая Каледония",
+      "country_code": "NCL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9cca9c7d-901c-46cb-9285-3a5a63c25973",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Норвегия",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "71c996f0-3343-4411-82a9-2928cc108941",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Объединенные Арабские Эмираты",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6cf1cd8c-e92a-4905-ac4c-71db4ee97244",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Оман",
+      "country_code": "OMN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2e791ef8-5d19-4ae3-8799-67b4a4823d08",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Остров Буве",
+      "country_code": "BVT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "77321fe6-2779-4b1e-befc-e9ba9e35f828",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Остров Мэн",
+      "country_code": "IMN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "69fb0274-0773-4598-b4e2-e180c39f309e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Остров Норфолк",
+      "country_code": "NFK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "71331278-2746-44a6-9f5f-3846f72ae7ba",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Остров Рождества",
+      "country_code": "CXR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b766f8f5-20f3-4c65-ab1a-656d3d90532e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Остров Херд и острова Макдональд",
+      "country_code": "HMD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "99247660-cf93-4443-92a4-d87c560545e7",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Острова Кайман",
+      "country_code": "CYM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "404f47ab-2f1b-44cf-ba68-bb4f765596f2",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Острова Кука",
+      "country_code": "COK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1cbc266c-52d5-4cc8-847c-2b5263f20430",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Острова Теркс и Кайкос",
+      "country_code": "TCA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3d766bd9-0bc3-4c36-8d2a-6ab347630b4b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Пакистан",
+      "country_code": "PAK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0f65200a-0e14-4197-9c2c-1098797b32d1",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Палау",
+      "country_code": "PLW"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "592adc53-5b6c-4a53-af6c-ac42ba75b6d9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Палестинская территория, оккупированная",
+      "country_code": "PSE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b941820c-6de8-406e-8f6d-d9f4e75e8d98",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Панама",
+      "country_code": "PAN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0e33b67e-673c-421d-a54d-b40d79537f81",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Папский Престол (Государство &mdash; город Ватикан)",
+      "country_code": "VAT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b301f7e8-36e6-4bb2-b3fa-27fd98fac07c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Папуа-Новая Гвинея",
+      "country_code": "PNG"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "36eb78ed-0c60-483d-8f77-9f1275a4b225",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Парагвай",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "83d57ef5-c395-48bb-ab85-27fa60332d05",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Перу",
+      "country_code": "PER"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7470957c-68ec-4081-b637-7e84b368cfa1",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Питкерн",
+      "country_code": "PCN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4d75b41f-0854-4688-a0a8-d8e62510976b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Польша",
+      "country_code": "POL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5e052d9a-1041-4b38-a818-d7f473d549ac",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Португалия",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1191b253-e73e-4e79-8ad7-e18ad24ff04f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Пуэрто-Рико",
+      "country_code": "PRI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f600e66c-41e9-4771-adcc-4ae49177dd0f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Республика Македония",
+      "country_code": "MKD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f068edd5-b872-4786-9322-eea453803fa6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Реюньон",
+      "country_code": "REU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "734a4ade-fdba-48b8-b5b3-8f10ccd72dee",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Россия",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "82a8d8b8-b428-4ea5-98cd-9119ad2fa1a6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Руанда",
+      "country_code": "RWA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ecd50629-458d-4303-aecf-ba8e43b5a95b",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Румыния",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "134d3879-0fce-4522-b20c-01c14da882cf",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Самоа",
+      "country_code": "WSM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "13bc2f6e-206c-4077-b5b7-0d705a780bc5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сан-Марино",
+      "country_code": "SMR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7e0db928-bc3a-4823-83b6-eda6344fcdbf",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сан-Томе и Принсипи",
+      "country_code": "STP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "978f19b4-96e1-4614-bff9-8bdd9966bdec",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Саудовская Аравия",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "33e3f8b2-9a1d-49c5-b2b3-84f924955aee",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Святая Елена, Остров вознесения, Тристан-да-Кунья",
+      "country_code": "SHN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "87b9298c-2fcb-4a6b-8f3e-90364ca82634",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Северные Марианские острова",
+      "country_code": "MNP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "21062920-f0c6-47c9-b518-47e6d9528609",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сен-Бартельми",
+      "country_code": "BLM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fede8277-a738-41eb-9a09-6455b963f6c5",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сен-Мартен",
+      "country_code": "MAF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ecb48411-b902-4b70-a027-fde807117803",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сенегал",
+      "country_code": "SEN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1990260a-5d03-4bd7-a9b5-802cf1d7a765",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сент-Винсент и Гренадины",
+      "country_code": "VCT"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "cc8f54e6-3c86-4756-a169-9131dce2b80c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сент-Китс и Невис",
+      "country_code": "KNA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "793ed1e3-c309-4ae2-9622-e61573a35672",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сент-Люсия",
+      "country_code": "LCA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "dbb93e1c-ce15-429f-94f1-e92c7192846c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сербия",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "38133bf4-a424-4af7-871c-71be4a874b98",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сейшелы",
+      "country_code": "SYC"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "de14a3d7-c955-4b2b-a000-cfd8ccc10598",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сингапур",
+      "country_code": "SGP"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3c2d0cd6-9370-45ab-aaf9-34f3c8c7b316",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Синт-Мартен",
+      "country_code": "SXM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "725a696b-850c-48d5-a1f6-a5d15ff2125c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сирийская Арабская Республика",
+      "country_code": "SYR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7abf62d1-512e-491b-9395-96634c32ea17",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Словакия",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9d2c131a-8ed8-490b-a598-2f37fbd09e07",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Словения",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "87f69416-91de-441e-9492-b09a74c865ff",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Соединенное Королевство",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ad52b3e6-096f-4863-b5e9-747c6c00af79",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Соединенные Штаты",
+      "country_code": "USA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9ea78129-0c75-4fa7-b110-3b0302d569f7",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Соломоновы острова",
+      "country_code": "SLB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ef15f823-c40c-481d-a4c9-f7427de0fa76",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сомали",
+      "country_code": "SOM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9ac3b57f-78c2-408f-8429-7ad15937a652",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Судан",
+      "country_code": "SDN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "623070e1-fa96-49f8-92d0-68487a271baa",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Суринам",
+      "country_code": "SUR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b83ddf2e-fefd-4062-a038-01225e774bf6",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Сьерра-Леоне",
+      "country_code": "SLE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "de145cd1-db55-4797-9304-e2528cd78b57",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Таджикистан",
+      "country_code": "TJK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6d0831ee-dcc8-48f3-83e6-37cd41072896",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Таиланд",
+      "country_code": "THA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2303b69a-8c23-4bd3-8d2e-f2f8aad97d75",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тайвань (Китай)",
+      "country_code": "TWN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "66e49eb0-84a7-48ea-a318-957e95ad22ed",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Танзания, Объединенная Республика",
+      "country_code": "TZA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "c3252aaf-270c-46db-8d6e-76ecc3009b16",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тимор-Лесте",
+      "country_code": "TLS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "f1cd7257-cd53-49ef-9ae2-21fade4ad1c9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Того",
+      "country_code": "TGO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2a1a6af0-858c-45fa-af65-a68212dcb911",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Токелау",
+      "country_code": "TKL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a4499a2d-66f5-4d2d-ac30-598b93fc6c74",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тонга",
+      "country_code": "TON"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0abfccdb-1678-4ee0-84f2-3ae2f0a20845",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тринидад и Тобаго",
+      "country_code": "TTO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "0280124a-a281-403b-8f2d-1cc2ec3400f4",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тувалу",
+      "country_code": "TUV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6bbe8967-2e7c-4403-9507-b14f10af4ddc",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Тунис",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "cd9c8531-cfae-4cbb-ac54-9c8ad26597b3",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Туркмения",
+      "country_code": "TKM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "189d3a9e-5923-4794-8fa7-1f0553c91036",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Турция",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "6a27ea5e-ec1a-493b-8409-27161072ef66",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Уганда",
+      "country_code": "UGA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "75e8a092-eb24-4002-b61a-0ca8028601f8",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Узбекистан",
+      "country_code": "UZB"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "260af7af-f42a-45c1-a0b5-2ed3fa2c6362",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Украина",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "a38f2a86-31c1-42d0-b219-b75378a31659",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Уоллис и Футуна",
+      "country_code": "WLF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "739eab48-7401-454a-ad30-9634546b99f0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Уругвай",
+      "country_code": "URY"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fbee07e1-fcc5-4df4-b4e9-e8d268f63e57",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Фарерские острова",
+      "country_code": "FRO"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8f32ebb9-978a-45dd-adea-c2d7f3cd0e9e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Фиджи",
+      "country_code": "FJI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "66c244f9-5007-4ae7-8bc9-2ae4534067ea",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Филиппины",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "374aa8b5-b221-4026-800d-629658564f12",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Финляндия",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4fccad8c-ccd6-4eba-8c77-b1f85ff4e884",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Фолклендские острова (Мальвинские)",
+      "country_code": "FLK"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "fd3f516f-7dbe-49ea-b609-452d7e702820",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Франция",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7f2938d9-7415-4063-991e-bdc4f6ec8fc0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Французская Гвиана",
+      "country_code": "GUF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e4a500fa-b736-49c8-a71c-6a28628f501c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Французская Полинезия",
+      "country_code": "PYF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8c0254f3-db21-4d10-840b-09f87f77e812",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Французские Южные территории",
+      "country_code": "ATF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "e73930e9-110d-41ee-9ea3-de1ea9419a86",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Хорватия",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "642a26ca-fd29-4d4f-8c4f-fbb06fd64f49",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Центрально-Африканская Республика",
+      "country_code": "CAF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "3e24de71-ca13-458c-ae5a-cae9f1b2a45c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Чад",
+      "country_code": "TCD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "986567b0-89b6-446c-84d4-10e0c13cbc5d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Черногория",
+      "country_code": "MNE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "78719a92-865e-4955-a995-0d3d65067b0e",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Чешская Республика",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4b8b0095-7cfe-43b1-a6c7-dbbc635e0f28",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Чили",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "ced518ba-a780-4491-8653-733fcd2ffb0d",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Швейцария",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "cb483d2f-6e9d-4838-88b4-1a9982a830bd",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Швеция",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "2d54698e-20a2-42ad-adfe-e91b386df48a",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Шпицберген и Ян Майен",
+      "country_code": "SJM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1eb12388-2443-43a8-830a-6b4ce0eee577",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Шри-Ланка",
+      "country_code": "LKA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "1b4b41bf-22bd-4472-b443-f6f4ebf16415",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эквадор",
+      "country_code": "ECU"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7baed647-2790-4ad8-ae2e-edb2ca8a687c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Экваториальная Гвинея",
+      "country_code": "GNQ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7a2554e0-ba79-43d2-b259-38efc1daa032",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эландские острова",
+      "country_code": "ALA"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "d77452ce-0e37-443f-86a7-0eef23fa0644",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эль-Сальвадор",
+      "country_code": "SLV"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "656df841-ae70-4e25-bdca-da3ea8fe4719",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эритрея",
+      "country_code": "ERI"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "8895cd9c-e3d1-4658-99b5-e5390d6073c8",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эсватини",
+      "country_code": "SWZ"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "7f1cb281-6167-4d81-9d64-887b8bd3a112",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эстония",
+      "country_code": "EST"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "9359c552-e766-4e28-abee-0636a0cb455f",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Эфиопия",
+      "country_code": "ETH"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "027826ff-0b74-41d2-9e30-5e7941fde302",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Южная Африка",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "b7d88140-da48-4977-83cf-52928dbcfe44",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Южная Джорджия и Южные Сандвичевы острова",
+      "country_code": "SGS"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "43aa5e2a-3a04-4e83-bb2a-609fa033fbf9",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Южная Осетия",
+      "country_code": "OST"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "4e7081fb-097a-476c-b2a3-fcec2cf3e5d0",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Южный Судан",
+      "country_code": "SSD"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "5c7d29a4-1ba1-42f3-b33d-85bf83490b6c",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Ямайка",
+      "country_code": "JAM"
+    }
+  },
+  {
+    "model": "users.country",
+    "pk": "746a8826-9687-4456-b0b0-86f880162eea",
+    "fields": {
+      "created_at": "2022-11-04T04:20:00.000Z",
+      "updated_at": "2022-11-04T04:20:00.000Z",
+      "name": "Япония",
+      "country_code": "JPN"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+version: '3.3'
+
+services:
+  db:
+    image: postgres:14.1
+    container_name: corp_db
+    env_file:
+      - .env
+    restart: always
+    volumes:
+      - ./postgres/data:/var/lib/postgresql/data
+    ports:
+      - "55436:5432"
+  redis:
+    image: redis:alpine
+    command: redis-server /usr/local/etc/redis/redis.conf
+    container_name: corp_redis
+    env_file:
+      - .env
+    ports:
+      - "63791:6379"
+    restart: always
+    volumes:
+      - ./redis/redis.conf:/usr/local/etc/redis/redis.conf
+      - ./redis/redis-data:/var/lib/redis
+    environment:
+      - REDIS_REPLICATION_MODE=master
+  python:
+    build: ./python
+    container_name: corp_python
+    env_file:
+      - .env
+    command: gunicorn -c gunicorn.conf.py
+    #      command: gunicorn -b 0.0.0.0:8000 settings.wsgi --preload --workers 8 --max_requests 500
+    volumes:
+      - ./src:/code
+      - ./logs:/code/logs
+      - ./static/:/var/www/html/static
+      - ./media:/var/www/html/media
+    ports:
+      - "8000:8000"
+    restart: always
+    depends_on:
+      - db
+      - redis
+  celery:
+    build: ./python
+    container_name: corp_celery
+    env_file:
+      - .env
+    command: celery -A settings worker  --concurrency=16
+#    -l INFO -f /code/logs/celery.log --statedb=worker.state
+    volumes:
+      - ./src:/code
+      - ./logs:/code/logs
+      - ./static/:/var/www/html/static
+      - ./media:/var/www/html/media
+    restart: always
+    depends_on:
+      - python
+  celery_beat:
+    build: ./python
+    container_name: corp_celery_beat
+    env_file:
+      - .env
+    command: celery -A settings beat -l INFO -f /code/logs/celery.log --scheduler django_celery_beat.schedulers:DatabaseScheduler
+    volumes:
+      - ./src:/code
+      - ./logs:/code/logs
+      - ./static/:/var/www/html/static
+      - ./media:/var/www/html/media
+    restart: always
+    depends_on:
+      - celery
+networks:
+  default:
+    external:
+      name: corp_network

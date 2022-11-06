@@ -1,0 +1,1861 @@
+[
+    {
+        "model": "users.interest",
+        "pk": "5d47819b-eec6-4476-bc40-3ae198062982",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Наука в целом",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "0e6c0c9d-9aa4-4b14-b59d-c46cf58d7690",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Науковедение",
+            "weight": 0,
+            "parent": "5d47819b-eec6-4476-bc40-3ae198062982"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c0ba9f67-2e82-445a-9e98-0d2966b8ec1c",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Информатика",
+            "weight": 0,
+            "parent": "5d47819b-eec6-4476-bc40-3ae198062982"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "dc6e41fb-d01d-43e4-b442-f0f02c8c4848",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Кибернетика",
+            "weight": 0,
+            "parent": "5d47819b-eec6-4476-bc40-3ae198062982"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7040ff6a-eb19-4165-b0f2-3268318fb116",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Стандартизация",
+            "weight": 0,
+            "parent": "5d47819b-eec6-4476-bc40-3ae198062982"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "416aab4b-4d4d-4a8d-addb-ad874cb334b4",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Сми",
+            "weight": 0,
+            "parent": "5d47819b-eec6-4476-bc40-3ae198062982"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "585d1d65-3e54-4441-903f-3329cae01892",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Философия. психология",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "81564090-2e8f-43d6-ac06-78bb97e832e5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Философия",
+            "weight": 0,
+            "parent": "585d1d65-3e54-4441-903f-3329cae01892"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f2d83e42-a305-4e67-a40f-6a42952e4fde",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Психология",
+            "weight": 0,
+            "parent": "585d1d65-3e54-4441-903f-3329cae01892"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "fb4a2bf7-e373-4021-8875-b5f5a8159e39",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Религия. теология",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "66f28dab-1b2c-44c0-a983-4c68dd119f1d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Атеизм",
+            "weight": 0,
+            "parent": "fb4a2bf7-e373-4021-8875-b5f5a8159e39"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "76d39818-d9c1-43b2-8912-b917cdacafc8",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Библеизм",
+            "weight": 0,
+            "parent": "fb4a2bf7-e373-4021-8875-b5f5a8159e39"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "2e9ac171-6f0a-4a51-ac23-d817b736e5a8",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Буддизм",
+            "weight": 0,
+            "parent": "fb4a2bf7-e373-4021-8875-b5f5a8159e39"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f1392dbf-38a5-43da-92d7-37f264168f64",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Мифология",
+            "weight": 0,
+            "parent": "fb4a2bf7-e373-4021-8875-b5f5a8159e39"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1ea70881-4332-4f4f-a40b-8abf82368f3c",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Религия",
+            "weight": 0,
+            "parent": "fb4a2bf7-e373-4021-8875-b5f5a8159e39"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c1fbe29f-5aba-4a1d-aeaf-519506e3b726",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Теория и методы общественных наук",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7635b0ee-e969-4007-8c77-3a58927d695d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Комплексные проблемы общественных наук",
+            "weight": 0,
+            "parent": "c1fbe29f-5aba-4a1d-aeaf-519506e3b726"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6bc04b91-b24a-4c87-bd89-449b6b03c3e7",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Общественные науки в целом",
+            "weight": 0,
+            "parent": "c1fbe29f-5aba-4a1d-aeaf-519506e3b726"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1a9131b0-071f-4960-8486-d2035c14efdd",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Демография. социология. статистика",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "95852323-0f3a-4fda-a944-32d571e1c86a",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Демография",
+            "weight": 0,
+            "parent": "1a9131b0-071f-4960-8486-d2035c14efdd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f032cfa7-750b-418f-8cc9-99c3450713ce",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Комплексные проблемы стран и регионов",
+            "weight": 0,
+            "parent": "1a9131b0-071f-4960-8486-d2035c14efdd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "107723bb-5289-44d1-9556-05dc0b47750e",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Метрология",
+            "weight": 0,
+            "parent": "1a9131b0-071f-4960-8486-d2035c14efdd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8a44769d-3356-4364-a1e3-3b28b72eea41",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Статистика",
+            "weight": 0,
+            "parent": "1a9131b0-071f-4960-8486-d2035c14efdd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8ce3618f-bddd-49da-ba1d-158b71e19dad",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Социология",
+            "weight": 0,
+            "parent": "1a9131b0-071f-4960-8486-d2035c14efdd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "44f7e0e6-d22c-4524-a169-8bbc7ad24b25",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Политика",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "aab0ec6b-9eae-45e1-b2a5-8ade33787fcb",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Дипломатический термин",
+            "weight": 0,
+            "parent": "44f7e0e6-d22c-4524-a169-8bbc7ad24b25"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "4d061162-dab1-4b16-8c6d-059dff1ad44f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Политика и политические науки",
+            "weight": 0,
+            "parent": "44f7e0e6-d22c-4524-a169-8bbc7ad24b25"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Экономика. народное хозяйство. экономические науки",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "276a4f3b-33f1-4c95-9741-3dbc1b3349d1",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Банковское дело",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c1113429-27cf-441d-ba2f-2e0fbadbfda5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Биржевой термин",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7e1b094b-45f4-4864-8690-de785f562592",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Бухгалтерский термин",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "214568b7-4fdd-4dfe-9a98-c1ed5a2d6aef",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Коммерческий термин",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c78f4146-a2f2-42e1-8188-b58e638c4e7b",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Охрана труда",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d489189d-cd26-4689-a645-f1f1441e5342",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Экономика и экономические науки",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "2064b5e6-6f7d-4e16-bb3f-941ae7ab55bf",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Финансовый термин",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "b9f66250-41a1-4844-bb86-96b498b5a675",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Политическая экономия",
+            "weight": 0,
+            "parent": "14cd15dc-5f1a-4288-ad23-8ceb6ae12179"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "69d9dd54-0bb1-4120-a27a-505371c44c17",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Право. юридические науки",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "0c34fbfd-20a2-4e6f-b653-20c6c7d3ba72",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Государство и право",
+            "weight": 0,
+            "parent": "69d9dd54-0bb1-4120-a27a-505371c44c17"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7ff0aef9-8e45-4ade-805c-2cddb1a06257",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Юридический термин",
+            "weight": 0,
+            "parent": "69d9dd54-0bb1-4120-a27a-505371c44c17"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c50c8467-5e5b-496e-a2a2-ec24888c6aa7",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Государственное административное управление. военное искусство. военные науки",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8b87cfe1-dac9-4f8e-a178-183f5552617d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Военное дело",
+            "weight": 0,
+            "parent": "c50c8467-5e5b-496e-a2a2-ec24888c6aa7"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "5875e4fd-4fa4-4202-bf11-2828bbb824cf",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Организация и управление",
+            "weight": 0,
+            "parent": "c50c8467-5e5b-496e-a2a2-ec24888c6aa7"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "465c7c83-40f2-418b-89ad-bd617b15f1ea",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Обеспечение духовных и материальных жизненных потребностей. социальное обеспечение. социальная помощь. обеспечение жильем. страхование",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6acae2b8-4b8b-4813-b31b-0635aa1b9659",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Страховой термин",
+            "weight": 0,
+            "parent": "465c7c83-40f2-418b-89ad-bd617b15f1ea"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "2325f2ba-5d05-4ef8-8ae5-d7a1fe2cb750",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Народное образование. воспитание. обучение. организация досуга",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8c68141e-2ace-4c43-9982-a0395a4a7aaa",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Педагогика",
+            "weight": 0,
+            "parent": "2325f2ba-5d05-4ef8-8ae5-d7a1fe2cb750"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "52018d94-4979-4714-ac3a-0d2f8ead6f8f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Этнография. нравы. обычаи. жизнь народа. фольклора",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "5fd80dd2-22d3-4961-88d1-fe9961e1d763",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Антропология",
+            "weight": 0,
+            "parent": "52018d94-4979-4714-ac3a-0d2f8ead6f8f"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "72c82dd7-3788-484b-9b0a-2805a53b7974",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Геральдика",
+            "weight": 0,
+            "parent": "52018d94-4979-4714-ac3a-0d2f8ead6f8f"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "938b2d81-a50c-4778-adf3-4b28965e86cb",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Этнография",
+            "weight": 0,
+            "parent": "52018d94-4979-4714-ac3a-0d2f8ead6f8f"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "9f74bc2a-2dfb-43ce-80fb-3d52c2830e17",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Устное народное творчество",
+            "weight": 0,
+            "parent": "52018d94-4979-4714-ac3a-0d2f8ead6f8f"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6ed12f30-681c-4522-805b-7293c5437f0d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Общие вопросы математических и естественных наук",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "e16e51a3-132e-44bf-8dc4-ac271f4f9d46",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Общие и комплексные проблемы естественных и точных наук",
+            "weight": 0,
+            "parent": "6ed12f30-681c-4522-805b-7293c5437f0d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8b5aba30-a263-4ea9-9822-1a21b8f914dd",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Математика",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "28fd2157-96e3-40b6-8290-8cb0cb6dd2b2",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Логика",
+            "weight": 0,
+            "parent": "8b5aba30-a263-4ea9-9822-1a21b8f914dd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7e708d89-0f48-4a05-a6d6-f847b5588b8f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Математика",
+            "weight": 0,
+            "parent": "8b5aba30-a263-4ea9-9822-1a21b8f914dd"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "51c750c6-a511-4830-91a8-d1421b296957",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Астрономия. геодезия",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "e0692d94-3fd5-4dc3-ad05-e057fc2057a1",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Астрономия",
+            "weight": 0,
+            "parent": "51c750c6-a511-4830-91a8-d1421b296957"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6e4c2de8-6572-4896-a328-06b5266b330f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Аэрофотосъёмка",
+            "weight": 0,
+            "parent": "51c750c6-a511-4830-91a8-d1421b296957"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "5b1ab60a-f642-4f79-8f6b-9175bdf1301a",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Геодезия",
+            "weight": 0,
+            "parent": "51c750c6-a511-4830-91a8-d1421b296957"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "5e90d04a-ffb2-4b1a-86b3-b0a989bdf255",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Измерительная техника",
+            "weight": 0,
+            "parent": "51c750c6-a511-4830-91a8-d1421b296957"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "e78190a0-c9ab-4af0-a053-f1d602aa86aa",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Топография",
+            "weight": 0,
+            "parent": "51c750c6-a511-4830-91a8-d1421b296957"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "0225c8ee-b010-4691-8ec6-1b877d519508",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Физика",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d1a6823c-ff5b-4964-b899-705f3545d722",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Акустика",
+            "weight": 0,
+            "parent": "0225c8ee-b010-4691-8ec6-1b877d519508"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7545ad01-d9e5-4b7c-9c46-20e2e4ec7ccc",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Оптика",
+            "weight": 0,
+            "parent": "0225c8ee-b010-4691-8ec6-1b877d519508"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "52ebfb29-9feb-47dd-b35f-d969e8d7f24d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Физика",
+            "weight": 0,
+            "parent": "0225c8ee-b010-4691-8ec6-1b877d519508"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "0847d9a3-5aa2-4def-b5d8-fcb35a94ad4e",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Энергетика",
+            "weight": 0,
+            "parent": "0225c8ee-b010-4691-8ec6-1b877d519508"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d0119686-96d7-43a7-86e4-3d01eb37ee77",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Химия. кристаллография. минералогия",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c2d86fa0-daf7-4b64-832f-5724a47bdbc5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Химия",
+            "weight": 0,
+            "parent": "d0119686-96d7-43a7-86e4-3d01eb37ee77"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c12473cd-d378-405f-ae6b-e5418365bc74",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Геология. геологические и геофизические науки",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "676b49e2-74e1-417f-a010-81443df37e8d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Взрывные работы",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "3543f0c7-28a8-46c0-af57-2cd45928ebe0",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Геология",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "4d7fae0f-0e34-4453-b0a6-c311b3ce5996",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Геофизика",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "51426124-ddbf-4172-9e65-f0bd67fe3ecc",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Горное дело",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "488234b2-02ed-4cf3-b8fd-3b2d34457ec5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Минералогия",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "4d326389-a1d8-4516-b64b-2cfc45448fe1",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Метеорология",
+            "weight": 0,
+            "parent": "c12473cd-d378-405f-ae6b-e5418365bc74"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ae2d4595-09e6-4c93-badc-a17de3949043",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Палеонтология",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "633ce3ff-a2f1-46a4-ad7a-8e226174a55b",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Биологические науки",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "76abbcc9-74f4-4039-b5e1-4938da1c69de",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Биология",
+            "weight": 0,
+            "parent": "633ce3ff-a2f1-46a4-ad7a-8e226174a55b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "aeadb840-4a1c-4c22-8a41-9d066cdd0f15",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Биотехнология",
+            "weight": 0,
+            "parent": "633ce3ff-a2f1-46a4-ad7a-8e226174a55b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a9eed18a-3457-4f4e-a617-bfb635042700",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Биохимия",
+            "weight": 0,
+            "parent": "633ce3ff-a2f1-46a4-ad7a-8e226174a55b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "17944698-2364-4cc1-a85e-7bdb17e17935",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Охрана окружающей среды. экология человека",
+            "weight": 0,
+            "parent": "633ce3ff-a2f1-46a4-ad7a-8e226174a55b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a276d2ba-984b-47c7-a073-59c92e6a2fe9",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Ботаника",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "198f21c1-aa31-42f5-b02e-758d15be2f77",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Ботаника",
+            "weight": 0,
+            "parent": "a276d2ba-984b-47c7-a073-59c92e6a2fe9"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "738478f5-9f17-4107-8197-d84150b95fdf",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Зоология",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f242e6fe-6227-4741-b9e4-47b55a32e38d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Зоология",
+            "weight": 0,
+            "parent": "738478f5-9f17-4107-8197-d84150b95fdf"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7ee73bce-c42b-4406-b705-3a2c2edfd510",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Энтомология",
+            "weight": 0,
+            "parent": "738478f5-9f17-4107-8197-d84150b95fdf"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "5f67ded6-d488-4841-b408-6861de018c02",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Прикладные науки. общие вопросы",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "88f6873d-446b-4772-aba9-9325dbe87401",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Патентное дело и изобретения",
+            "weight": 0,
+            "parent": "5f67ded6-d488-4841-b408-6861de018c02"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "cc2a18be-4b3d-4490-bfaa-79a086266304",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Проблемы технических и экономических наук и отрасли хозяйства",
+            "weight": 0,
+            "parent": "5f67ded6-d488-4841-b408-6861de018c02"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a387b293-a47d-415f-8899-726c2ffabe82",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Медицина. охрана здоровья. пожарное дело",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c5726550-275b-436b-8631-4ccd215a4fda",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Анатомия",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "95d29774-5e8b-47ab-88c9-321d78a1adbb",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Ветеринария",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "eb53b417-b23a-48ad-890e-ef831a814070",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Гельминтология",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1e9ade55-4da6-4a9d-9551-f116050f17f9",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Здравоохранение",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "fa152d74-bb71-45ef-a341-02c96014962d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Медицина",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7e263db5-a922-41f4-b7bf-53b4159290d6",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Физкультура и спорт",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a39e6ec1-81c6-4862-a83f-f14c0b085a59",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Физиология",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "98cb92cd-90c0-40ce-a022-8f98758ac057",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Фармацевтический термин",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ca5400d6-b986-4096-9c36-8acb348cfa85",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Психиатрия",
+            "weight": 0,
+            "parent": "a387b293-a47d-415f-8899-726c2ffabe82"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c4290f91-1da5-45e0-9168-89809cf72186",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Инженерное дело. техника в целом",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "16720701-7965-432c-9407-634be3a4037c",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Автоматика",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "3cd60689-73ee-4783-b3df-ba9db4640287",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Механика",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "50e6efa0-046a-42e0-9fc6-4c4442a8dc58",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Космические исследования",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "97ca897d-ed97-47c8-831a-5f148d214498",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Космонавтика",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "11dac29c-11b7-4787-876d-8ff38a172239",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Навигационная техника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ab34340f-b5d6-44c2-b354-2d3fd4d099f3",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Техника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f47d0d46-b147-4c31-b233-a05e144b8ee4",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Телефония, телеграфия",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "58b1ad50-8cfe-48dc-804d-e1bd768d7416",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Электротехника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a5c2eb7e-8584-4da0-b7db-c826868783cd",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Электроника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ebaf9333-8133-4f99-86f8-0c97e074f5c8",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Ядерная техника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "13323588-46d9-453a-be4c-c684553c43e3",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Радиотехника",
+            "weight": 0,
+            "parent": "c4290f91-1da5-45e0-9168-89809cf72186"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "f5976e81-c7d2-47e7-9486-3bb518b2624d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Сельское хозяйство. лесное хозяйство. охота. рыбное хозяйство",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ab21099d-7a82-4e16-8f07-ae1dd236642e",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Бумажное и лесное дело",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "22dde04c-1510-4e4b-b78c-2ec8b6e2395b",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Водное хозяйство",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "bddb3846-a368-4f93-a4ae-de1bfb1a63b3",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Гидрология",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "baa9dcbe-0d5e-44e7-a791-40f03688ebd0",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Гидротехника",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1921e53e-b2e8-4561-a706-38e0a1993dd5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Океанология",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1b3de3fd-78dd-499a-9ceb-be8da5b0b2c4",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Охота",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "44331468-4a20-4676-bae6-fb9f34fa7dc1",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Рыбное хозяйство",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6302a1e8-eece-4963-9c75-209b912f8ae4",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Пчеловодство",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7cca49de-ab9a-4c27-b298-71efb3de952a",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Сельское хозяйство",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "2605cea1-c2d6-431c-a2f8-527075652156",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Садоводство",
+            "weight": 0,
+            "parent": "f5976e81-c7d2-47e7-9486-3bb518b2624d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ca3da1af-7065-4ca8-9e48-dbcb2d3b9086",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Домоводство. коммунальное хозяйство. служба быта",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "beb84557-8cf1-4197-85d2-982a335fe8b3",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Жкх",
+            "weight": 0,
+            "parent": "ca3da1af-7065-4ca8-9e48-dbcb2d3b9086"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "7aded813-a5bf-4d70-ba60-11ca6991fe3f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Кулинария",
+            "weight": 0,
+            "parent": "ca3da1af-7065-4ca8-9e48-dbcb2d3b9086"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "39837c8b-6627-4fe9-a769-c7b4d4bade7d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Управление предприятиями. организация производства, торговли и транспорта",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "98596343-024c-481e-aed8-6b376b0a2f30",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Авиация",
+            "weight": 0,
+            "parent": "39837c8b-6627-4fe9-a769-c7b4d4bade7d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "84387c7f-f8c8-419a-9131-0e5404ca1462",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Внешняя торговля",
+            "weight": 0,
+            "parent": "39837c8b-6627-4fe9-a769-c7b4d4bade7d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "ac8e5872-0140-40b5-95d1-a8fc7db311fd",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Внутренняя торговля и туризм",
+            "weight": 0,
+            "parent": "39837c8b-6627-4fe9-a769-c7b4d4bade7d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1d14a90d-3358-4397-a116-d5dd7b2b251c",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Морское дело, перевозки",
+            "weight": 0,
+            "parent": "39837c8b-6627-4fe9-a769-c7b4d4bade7d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d19818da-392d-46e7-9cd5-8347f30df89d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Связь",
+            "weight": 0,
+            "parent": "39837c8b-6627-4fe9-a769-c7b4d4bade7d"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "8dba2255-1b34-4011-8f83-49ab9f0c335b",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Химическая технология. химическая промышленность. пищевая промышленность. металлургия. родственные отрасли",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "032e18a6-f5a4-4b44-a965-cacfc89e3c09",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Металлургия",
+            "weight": 0,
+            "parent": "8dba2255-1b34-4011-8f83-49ab9f0c335b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "eabfd554-739e-41b8-96a8-16fb254d34e6",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Пищевая промышленность",
+            "weight": 0,
+            "parent": "8dba2255-1b34-4011-8f83-49ab9f0c335b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "90872649-ac4c-40ee-8c40-57a41b9ded6f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Полиграфия",
+            "weight": 0,
+            "parent": "8dba2255-1b34-4011-8f83-49ab9f0c335b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "79d9a957-b2b3-440d-bfc5-246f8c4c3457",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Прочие отрасли экономики",
+            "weight": 0,
+            "parent": "8dba2255-1b34-4011-8f83-49ab9f0c335b"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d53859ab-5acf-4741-9526-989a04db85bc",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Различные отрасли промышленности и ремесла. механическая технология",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "6c2f700e-5019-4d6a-9a45-fd6faa3c2f69",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Машиностроение",
+            "weight": 0,
+            "parent": "d53859ab-5acf-4741-9526-989a04db85bc"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "393385f3-83df-4a4c-8f01-e703f60bc47d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Автомобильное дело",
+            "weight": 0,
+            "parent": "d53859ab-5acf-4741-9526-989a04db85bc"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "dcf9c799-d9dc-42b1-80a9-373052992bb2",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Различные отрасли промышленности и ремесла, производящие конечную продукцию. точная механика",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "024c9a49-e76e-4f1b-8b0b-fffd7cff9079",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Легкая промышленность",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c8c519b9-d817-4e94-8be0-44269b199456",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Канцелярское дело",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "36b3d9f0-5960-42c5-b2a3-9422480cbc77",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Карточный термин",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "e5d37fcd-97b6-4917-a2e8-2c4d33e089cd",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Кожевенное дело",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "fb5b2f15-50f4-4e41-b8d2-07073342935c",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Текстильное дело",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "e18b457d-7676-45ac-9a70-57b8ee2a7674",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Вычислительная техника",
+            "weight": 0,
+            "parent": "dcf9c799-d9dc-42b1-80a9-373052992bb2"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "9872fbfe-eb0e-4077-9576-6fcf98ec3dc9",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Строительство. строительные материалы. строительно-монтажные работы",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "65d69aff-779a-4875-b0cb-7ca2c516550a",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Архитектура",
+            "weight": 0,
+            "parent": "9872fbfe-eb0e-4077-9576-6fcf98ec3dc9"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "3e80c8a1-bf39-43cd-97f6-aed003396825",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Дорожное дело",
+            "weight": 0,
+            "parent": "9872fbfe-eb0e-4077-9576-6fcf98ec3dc9"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "278de532-6fed-4eb4-9d0c-c784c8f36392",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Железнодорожное дело",
+            "weight": 0,
+            "parent": "9872fbfe-eb0e-4077-9576-6fcf98ec3dc9"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "761fbfa6-6f12-4a2f-a439-19890460dc24",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Строительное дело",
+            "weight": 0,
+            "parent": "9872fbfe-eb0e-4077-9576-6fcf98ec3dc9"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "c2cdd84f-f651-428b-a241-d23c1d2afcaa",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Искусство. декоративно-прикладное искусство. фотография. музыка. игры. спорт",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "17bd35c9-f98c-4fe1-a502-b1fde2eb82b5",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Живопись",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "59420e58-cba0-40ed-b0cc-6dd25bf4639b",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Искусство",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "743737f7-e4b1-409a-b059-fc396878d8cc",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Кинематография",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "52365222-6392-4762-9769-39c42f33ad10",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Культура",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "56a2103e-bddc-4760-96d2-4a90da9455dc",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Музыка",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "a87b1fd4-973d-4b24-ac37-c33ba1cc75f7",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Фотография",
+            "weight": 0,
+            "parent": "c2cdd84f-f651-428b-a241-d23c1d2afcaa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "3672a7bd-6da7-426c-b994-d9ed6456d4d0",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Языкознание. филология. художественная литература. литературоведение",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "177213df-7bbf-44e0-b10a-6ee31109323d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Лингвистика",
+            "weight": 0,
+            "parent": "3672a7bd-6da7-426c-b994-d9ed6456d4d0"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "1a7fb5ef-034d-4030-816e-be136f8a8e32",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Литература",
+            "weight": 0,
+            "parent": "3672a7bd-6da7-426c-b994-d9ed6456d4d0"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "3ba37e74-fdb8-4aed-b78f-67f5886ca4d3",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Литературоведение",
+            "weight": 0,
+            "parent": "3672a7bd-6da7-426c-b994-d9ed6456d4d0"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d81731b8-49f8-4acc-8748-086f4797bf0d",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Филология",
+            "weight": 0,
+            "parent": "3672a7bd-6da7-426c-b994-d9ed6456d4d0"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "b54c8b99-f5c2-438f-98b4-11f1e08a8bde",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Стихосложение",
+            "weight": 0,
+            "parent": "3672a7bd-6da7-426c-b994-d9ed6456d4d0"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "caf4fedb-6aca-4f1b-954a-6e61895f1bfa",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "География. биография. история",
+            "weight": 0,
+            "parent": null
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "962652f0-a3f1-4e27-8ba4-b8006871a58f",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Археология",
+            "weight": 0,
+            "parent": "caf4fedb-6aca-4f1b-954a-6e61895f1bfa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d3c16ebd-7327-44fd-a2d7-b619d0339fec",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "География",
+            "weight": 0,
+            "parent": "caf4fedb-6aca-4f1b-954a-6e61895f1bfa"
+        }
+    },
+    {
+        "model": "users.interest",
+        "pk": "d0731c94-9c8f-488b-8b7e-a55ee6f45338",
+        "fields": {
+            "created_at": "2022-04-20T16:05:46.144Z",
+            "updated_at": "2022-04-20T16:05:46.144Z",
+            "name": "Исторический термин",
+            "weight": 0,
+            "parent": "caf4fedb-6aca-4f1b-954a-6e61895f1bfa"
+        }
+    }
+]
